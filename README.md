@@ -26,9 +26,9 @@ It focuses on honing ReactJS skills without building a complete server, using `j
 ![Menu Page](./screenshots/login.png)
 
 ### Main Page
-![Cart Page](./screenshots/citylist.png)
-![Cart Page](./screenshots/countrylist.png)
-![Cart Page](./screenshots/addNewCityForm.png)
+![Main Page 1](./screenshots/citylist.png)
+![Main Page 2](./screenshots/countrylist.png)
+![Main Page 3](./screenshots/addNewCityForm.png)
 
 ## Project Setup
 
