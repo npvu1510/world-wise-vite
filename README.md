@@ -15,7 +15,7 @@ It focuses on honing ReactJS skills without building a complete server, using `j
 - Vite
 - CSS Modules
 - Global Context
-- Leaflet for maps
+- [Leaflet](https://leafletjs.com/) for maps
 - json-server
 
 ## Screenshots
