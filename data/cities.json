@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "Really really bad 👎",
+      "position": {
+        "lat": 41.390205,
+        "lng": 2.154007
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Hamburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Excellent 😃",
+      "position": {
+        "lat": 53.551086,
+        "lng": 9.993682
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Long Thanh",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-06-15T03:56:45.429Z",
+      "notes": "",
+      "position": {
+        "lat": "10.833305983642491",
+        "lng": "107.05078125000001"
+      },
+      "id": 3370165
+    },
+    {
+      "cityName": "Hanoi",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-06-15T03:58:47.712Z",
+      "notes": "",
+      "position": {
+        "lat": "21.017854937856118",
+        "lng": "105.87524414062501"
+      },
+      "id": 6872798
+    },
+    {
+      "cityName": "Tangyan",
+      "country": "Myanmar",
+      "emoji": "🇲🇲",
+      "date": "2024-06-15T04:02:04.417Z",
+      "notes": "",
+      "position": {
+        "lat": "22.04491330024569",
+        "lng": "98.76708984375001"
+      },
+      "id": 1026683
+    },
+    {
+      "cityName": "Quang Ngai",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2024-06-15T04:18:39.418Z",
+      "notes": "",
+      "position": {
+        "lat": "15.111901287412248",
+        "lng": "108.81683349609376"
+      },
+      "id": 6717923
+    },
+    {
+      "cityName": "Povorino",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-06-15T04:22:09.644Z",
+      "notes": "",
+      "position": {
+        "lat": "51.16556659836182",
+        "lng": "42.07763671875001"
+      },
+      "id": 10422715
+    }
+  ]
+}
